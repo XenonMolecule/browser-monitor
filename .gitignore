@@ -1,1 +1,4 @@
 /chromedriver_win32/chromedriver.exe
+/credentials.json
+/token.pickle
+/client_id.json
